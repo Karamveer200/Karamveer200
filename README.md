@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ####  Hi there, Karam here 👋
 
 ```
-export const whoAmI = {
+export const getMaxCapablity = {
     color: 🚨 DOESN'T_MATTER,
     age: 🚨 DOESN'T_MATTER,
     sex: 🚨 DOESN'T_MATTER,
