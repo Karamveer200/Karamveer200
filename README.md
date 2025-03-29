@@ -8,10 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=🤔Guess_who_am_I?;🙏Unbeatable_Unmatchable😲;Production_Crasher🤯&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Production Crasher;My_nickname?&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<br>
+
 ####  Hi there, Karam here 👋
 
 ```
