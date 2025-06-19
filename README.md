@@ -11,6 +11,10 @@
 
 ####  Hi there, Karam here 👋
 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Karamveer200&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 ```
 export const getMaxCapablity = {
     color: 🚨 DOESN'T_MATTER,
@@ -26,3 +30,4 @@ export const getMaxCapablity = {
      ]
 }
 ```
+
