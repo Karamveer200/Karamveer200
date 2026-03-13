@@ -20,7 +20,7 @@ export const getMaxCapablity = {
     disablity: 🚨 DOESN'T_MATTER,
 
     passion: "OOPS!, ❤️ This one matters 🧠"
-    experience: ""🚀 5 Years: Frontend expert, Backend Slayer",
+    experience: ""6+ Years: Frontend expert, Backend Slayer",
 }
 ```
 
